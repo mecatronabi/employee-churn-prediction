@@ -75,6 +75,7 @@ Generate actionable insights for business decision-making.
 
 ## 📁 Project structure
 
+ ``` 
 employee-churn-prediction/
 ├── data/
 │ └── WA_Fn-UseC_-HR-Employee-Attrition.csv
@@ -84,7 +85,7 @@ employee-churn-prediction/
 ├── images/
 ├── requirements.txt
 └── README.md
-
+ ``` 
 
 ---
 
@@ -177,6 +178,7 @@ Generación de recomendaciones técnicas y de negocio.
 
 ## 📁 Estructura del proyecto
 
+ ``` 
 employee-churn-prediction/
 ├── data/
 │ └── WA_Fn-UseC_-HR-Employee-Attrition.csv
@@ -186,7 +188,7 @@ employee-churn-prediction/
 ├── images/
 ├── requirements.txt
 └── README.md
-
+ ``` 
 
 ---
 
